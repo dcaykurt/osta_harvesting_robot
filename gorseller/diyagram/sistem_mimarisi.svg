@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 600" width="1100" height="600" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker>
+<style>.h{font-size:19px;font-weight:700;fill:#0f172a}.t{font-size:14px;font-weight:600;fill:#0f172a}.s{font-size:12px;fill:#475569}.g{font-size:12px;font-weight:700;fill:#64748b;letter-spacing:.06em}.w{stroke:#475569;stroke-width:1.6;fill:none}</style></defs>
+<rect width="1100" height="600" fill="#ffffff"/>
+<text x="550.0" y="34" text-anchor="middle" class="h">OSTA — Sistem Mimarisi</text>
+<rect x="60" y="64" width="280" height="70" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.6"/>
+<text x="200.0" y="95.0" text-anchor="middle" class="t">Yer İstasyonu</text>
+<text x="200.0" y="113.0" text-anchor="middle" class="s">masaüstü kontrol arayüzü</text>
+<rect x="410" y="64" width="280" height="70" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="1.6"/>
+<text x="550.0" y="95.0" text-anchor="middle" class="t">Bulut Veri Tabanı</text>
+<text x="550.0" y="113.0" text-anchor="middle" class="s">komut ve telemetri</text>
+<rect x="760" y="64" width="280" height="70" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.6"/>
+<text x="900.0" y="95.0" text-anchor="middle" class="t">Mobil Uygulama</text>
+<text x="900.0" y="113.0" text-anchor="middle" class="s">izleme ve kontrol</text>
+<path d="M340,99 L408,99" class="w" marker-end="url(#a)" marker-start="url(#a)"/>
+<path d="M760,99 L692,99" class="w" marker-end="url(#a)" marker-start="url(#a)"/>
+<rect x="40" y="180" width="1020" height="390" rx="16" fill="none" stroke="#cbd5e1" stroke-width="1.6" stroke-dasharray="7 5"/>
+<text x="60" y="204" class="g">KARA ARACI</text>
+<rect x="410" y="222" width="280" height="96" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.6"/>
+<text x="550.0" y="257.0" text-anchor="middle" class="t">Görev Bilgisayarı</text>
+<text x="550.0" y="275.0" text-anchor="middle" class="s">görüntü işleme · görev planlama</text>
+<text x="550.0" y="293.0" text-anchor="middle" class="s">navigasyon · kol hareket planlama</text>
+<path d="M550,134 L550,220" class="w" marker-end="url(#a)" marker-start="url(#a)"/>
+<rect x="70" y="222" width="250" height="96" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.6"/>
+<text x="195.0" y="257.0" text-anchor="middle" class="t">Algılayıcılar</text>
+<text x="195.0" y="275.0" text-anchor="middle" class="s">2 adet stereo kamera</text>
+<text x="195.0" y="293.0" text-anchor="middle" class="s">LiDAR</text>
+<path d="M320,270 L408,270" class="w" marker-end="url(#a)"/>
+<rect x="780" y="222" width="250" height="96" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.6"/>
+<text x="905.0" y="257.0" text-anchor="middle" class="t">Kara Aracı Kontrolü</text>
+<text x="905.0" y="275.0" text-anchor="middle" class="s">tekerlek motorları, PID</text>
+<text x="905.0" y="293.0" text-anchor="middle" class="s">enkoder odometrisi</text>
+<path d="M690,270 L778,270" class="w" marker-end="url(#a)" marker-start="url(#a)"/>
+<rect x="410" y="370" width="280" height="64" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.6"/>
+<text x="550.0" y="398.0" text-anchor="middle" class="t">Kol Haberleşme Kartları</text>
+<text x="550.0" y="416.0" text-anchor="middle" class="s">komut dağıtımı</text>
+<path d="M550,318 L550,368" class="w" marker-end="url(#a)" marker-start="url(#a)"/>
+<rect x="70" y="474" width="200" height="72" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="1.6"/>
+<text x="170.0" y="497.0" text-anchor="middle" class="t">Robot Kol 1</text>
+<text x="170.0" y="515.0" text-anchor="middle" class="s">6 eksen · kontrol kartı</text>
+<text x="170.0" y="533.0" text-anchor="middle" class="s">enkoder kartları</text>
+<rect x="320" y="474" width="200" height="72" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="1.6"/>
+<text x="420.0" y="497.0" text-anchor="middle" class="t">Robot Kol 2</text>
+<text x="420.0" y="515.0" text-anchor="middle" class="s">6 eksen · kontrol kartı</text>
+<text x="420.0" y="533.0" text-anchor="middle" class="s">enkoder kartları</text>
+<rect x="580" y="474" width="200" height="72" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="1.6"/>
+<text x="680.0" y="497.0" text-anchor="middle" class="t">Robot Kol 3</text>
+<text x="680.0" y="515.0" text-anchor="middle" class="s">6 eksen · kontrol kartı</text>
+<text x="680.0" y="533.0" text-anchor="middle" class="s">enkoder kartları</text>
+<rect x="830" y="474" width="200" height="72" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="1.6"/>
+<text x="930.0" y="497.0" text-anchor="middle" class="t">Robot Kol 4</text>
+<text x="930.0" y="515.0" text-anchor="middle" class="s">6 eksen · kontrol kartı</text>
+<text x="930.0" y="533.0" text-anchor="middle" class="s">enkoder kartları</text>
+<path d="M170,452 L930,452" class="w"/>
+<path d="M550,434 L550,452" class="w"/>
+<path d="M170,452 L170,472" class="w" marker-end="url(#a)"/>
+<path d="M420,452 L420,472" class="w" marker-end="url(#a)"/>
+<path d="M680,452 L680,472" class="w" marker-end="url(#a)"/>
+<path d="M930,452 L930,472" class="w" marker-end="url(#a)"/>
+</svg>
